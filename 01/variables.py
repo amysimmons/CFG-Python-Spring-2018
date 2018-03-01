@@ -5,7 +5,7 @@ age = 5
 age = "not telling"
 
 print age
-# What do we expect?
+print "expect not telling"
 
 first_name = "Amy"
 

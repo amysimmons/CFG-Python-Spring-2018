@@ -1,32 +1,32 @@
 # NUMBERS
 
 print 5 - 6
-# What do we expect?
+print "expect -1"
 
 print 8 * 9
-# What do we expect?
+print "expect 72"
 
 print 6 / 2
-# What do we expect?
+print "expect 3"
 
 print 5 / 2
-# What do we expect?
+print "expect 2.5"
 
 print 5.0 / 2
-# What do we expect?
+print "expect 2.5"
 
 print 5 / 2.0
-# What do we expect?
+print "expect 2.5"
 
 print 5.0 / 2.0
-# What do we expect?
+print "expect 2.5"
 
 print 5 % 2
-# What do we expect?
+print "expect 1"
 
 print 2 * (10 + 3)
-# What do we expect?
+print "expect 26"
 
 print 2 ** 4
-# What do we expect?
+print "expect 64 or 8 or 16"
 

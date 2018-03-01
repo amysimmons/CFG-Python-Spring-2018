@@ -1,20 +1,20 @@
 # STRINGS
 
 print 'hello' + 'world'
-# What do we expect?
+print "expect helloworld"
 
 print "Bob" * 3
-# What do we expect?
+print "expect BobBobBob"
 
-print "Bob" + 3
-# What do we expect?
+# print "Bob" + 3
+# print "expect Bob3 or error"
 
 print "hello".upper()
-# What do we expect?
+print "expect HELLO"
 
 print "GOODBYE".lower()
-# What do we expect?
+print "expect goodbye"
 
 print "the lord of the rings".title()
-# What do we expect?
+print "expect The Lord Of The Rings"
 
